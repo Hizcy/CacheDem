@@ -1,0 +1,5 @@
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Common\bin\Debug\Common.dll
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Common\bin\Debug\Common.pdb
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Common\obj\Debug\Common.dll
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Common\obj\Debug\Common.pdb
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

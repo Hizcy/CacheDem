@@ -1,0 +1,4 @@
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Ruanmou.BLL\bin\Debug\Ruanmou.BLL.dll
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Ruanmou.BLL\bin\Debug\Ruanmou.BLL.pdb
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Ruanmou.BLL\obj\Debug\Ruanmou.BLL.dll
+D:\ruanmou\online8\20170309Advanced8Course19Cache\CacheDemo\Ruanmou.BLL\obj\Debug\Ruanmou.BLL.pdb
